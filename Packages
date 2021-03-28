@@ -50,14 +50,14 @@ Author: z
 Name: 威锋NoAds
 
 Package: z.newsysctl
-Version: 2.0
+Version: 2.0.1
 Architecture: iphoneos-arm
 Pre-Depends: dpkg (>= 1.15)
-Filename: deb/z.newsysctl_2.0_iphoneos-arm.deb
-Size: 1588
-MD5sum: e6b12c98d4a73f7e7ff2167f7d6070f7
-SHA1: 8c4064d67c48590bf76c1cd1c1cc591541950710
-SHA256: 1a6b709a62ef4cc408053761d299f4637c6bacaf443188d592786fdbfa9a2fce
+Filename: deb/z.newsysctl_2.0.1_iphoneos-arm.deb
+Size: 1676
+MD5sum: 699f9d8bb766c99e5196510b8d09e389
+SHA1: 23136f6d2ba4d830674e3e286f9b5dd83fbc6688
+SHA256: e79f511f81fc4b52277dc31409386077ecc32213d2af210702d00b2f87258347
 Section: System
 Description: You should reboot and rejailbreak to test this!
 Name: newsysctl
