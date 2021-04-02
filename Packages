@@ -56,10 +56,10 @@ Maintainer: 真皮
 Installed-Size: 60
 Depends: mobilesubstrate
 Filename: deb/z.newsysctl_2.1_iphoneos-arm.deb
-Size: 3380
-MD5sum: 9ba903dc0e251b61f19ce669b8b4d474
-SHA1: 06fa09edce2a1e4258b2ceaa076fec4b534720a6
-SHA256: b822609231105f3b8fa0d895d18802f804c93a35c85bf8df93ab9374888f5410
+Size: 3364
+MD5sum: a9558f5b4ba1220de41ed06e541472bb
+SHA1: 1e7e705b2993d059c6b701b89f93c5c42c84167a
+SHA256: 45a4f897b98c3ded8ac6192a578a39c272031b39d9b208653ccadaeeb0d2088c
 Section: Tweaks
 Description: 重启越狱后运行/etc/newsysctl自定义脚本~
 Author: 真皮
