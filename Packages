@@ -50,16 +50,19 @@ Author: z
 Name: 威锋NoAds
 
 Package: z.newsysctl
-Version: 2.0.1
+Version: 2.1
 Architecture: iphoneos-arm
-Pre-Depends: dpkg (>= 1.15)
-Filename: deb/z.newsysctl_2.0.1_iphoneos-arm.deb
-Size: 1676
-MD5sum: 699f9d8bb766c99e5196510b8d09e389
-SHA1: 23136f6d2ba4d830674e3e286f9b5dd83fbc6688
-SHA256: e79f511f81fc4b52277dc31409386077ecc32213d2af210702d00b2f87258347
-Section: System
-Description: You should reboot and rejailbreak to test this!
+Maintainer: 真皮
+Installed-Size: 60
+Depends: mobilesubstrate
+Filename: deb/z.newsysctl_2.1_iphoneos-arm.deb
+Size: 3380
+MD5sum: 9ba903dc0e251b61f19ce669b8b4d474
+SHA1: 06fa09edce2a1e4258b2ceaa076fec4b534720a6
+SHA256: b822609231105f3b8fa0d895d18802f804c93a35c85bf8df93ab9374888f5410
+Section: Tweaks
+Description: 重启越狱后运行/etc/newsysctl自定义脚本~
+Author: 真皮
 Name: newsysctl
 
 Package: z.taobaonoads
