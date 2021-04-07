@@ -50,15 +50,15 @@ Author: z
 Name: 威锋NoAds
 
 Package: z.newsysctl
-Version: 2.3
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: 真皮
 Depends: mobilesubstrate
-Filename: deb/z.newsysctl_2.3_iphoneos-arm.deb
-Size: 3396
-MD5sum: 9a4769546881d87a118bde581fce0f49
-SHA1: 9a9b9be43d1e956bcd5e0b31a36ed7083c6c4598
-SHA256: 765e4a9f148d5dc06ae82269ac79a667037bf864ad80f255da416bdb099b2659
+Filename: deb/z.newsysctl_3.0_iphoneos-arm.deb
+Size: 3388
+MD5sum: f2ba8e0e2694b47ed8a5b1d1631be424
+SHA1: 55c6f9ea951c8bd5d4efb549a8f56e67fe8456f0
+SHA256: 19960d0584cfeddac983afc814a08f7527d8d5d2d1bce90976078e4fe2dacb7e
 Section: Tweaks
 Description: 重启越狱后运行/etc/newsysctl自定义脚本~
 Author: 真皮
