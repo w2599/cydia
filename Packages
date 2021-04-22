@@ -34,16 +34,16 @@ Icon: file:///Applications/Cydia.app/Sections/Messaging.png
 Name: biquNoAds
 
 Package: z.fengnoads
-Version: 2.0.2
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: z
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: deb/z.fengnoads_2.0.2_iphoneos-arm.deb
-Size: 3302
-MD5sum: e24b8b81d456483bfb9091a8dbc4892e
-SHA1: 177477990b2895038f235d16e593f658b0e9add7
-SHA256: a77a839a18586bc8924b5d65e93bd57bc285c5670468a59b064105ab1baa0147
+Filename: deb/z.fengnoads_2.1_iphoneos-arm.deb
+Size: 3348
+MD5sum: 61aeaf0dc3e1f651c225b35ee33342df
+SHA1: fab30a5969228d219d3c3573bd764538ba673053
+SHA256: 4c467eea9c2423ff4b6bd72a751effeed7e8deb03ddb9b644212bb63fd2ac8af
 Section: Tweaks
 Description: 威锋去广告6.4.2自用!
 Author: z
